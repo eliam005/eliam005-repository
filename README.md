@@ -1,6 +1,6 @@
 ### Информация об eliam005:<br>
 
-![Логотип NeuroStartUp](img/photo.jpg) NeuroStartUp
+![Фото из архива](img/photo.jpg)
 
 **Несколько интересных фактов обо мне:**<br>
 
