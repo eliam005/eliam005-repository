@@ -1,6 +1,6 @@
 ### Информация об eliam005:<br>
 
-![Логотип NeuroStartUp][https://s0.rbk.ru/v6_top_pics/resized/590xH/media/img/7/45/756778283361457.jpg]
+![Предполагаемое фото из архива] (https://s0.rbk.ru/v6_top_pics/resized/590xH/media/img/7/45/756778283361457.jpg)
 
 **Несколько интересных фактов обо мне:**<br>
 
@@ -12,5 +12,5 @@
 
 *Мои контакты*<br>
 
-Почта: salcov.ilya@yandex.ru
+Почта: salcov.ilya@yandex.ru<br>
 Телефон: Это пока секрет !
